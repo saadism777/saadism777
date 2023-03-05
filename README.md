@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Md. Farhan Hasin Saad</h1>
-<h3 align="center">I'm a responsible, hardworking, and skilled graduate of Computer Science Engineering from North South University with a major in Artificial Intelligence. I'm passionate about AI and eager to make meaningful contributions to the field. I also have good understanding in Fullstack.</h3>
+<h3 align="left">I'm a responsible, hardworking, and skilled graduate of Computer Science Engineering from North South University with a major in Artificial Intelligence. I'm passionate about AI and eager to make meaningful contributions to the field. I also have good understanding in Fullstack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadism777&label=Profile%20views&color=0e75b6&style=flat" alt="saadism777" /> </p>
 
