@@ -1,23 +1,48 @@
-<h1 align="center">Hello, I'm Md. Farhan Hasin Saad</h1>
-<h3 align="center">I'm a responsible, hardworking, and skilled graduate of Computer Science Engineering from North South University with a major in Artificial Intelligence. I'm passionate about AI and eager to make meaningful contributions to the field. I also have good understanding in Fullstack Web developement.</h3>
+# Md. Farhan Hasin Saad
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadism777&label=Profile%20views&color=0e75b6&style=flat" alt="saadism777" /> </p>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-saadism-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saadism/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-saadism777-black?style=flat-square&logo=github)](https://github.com/saadism777)
+[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-Md.%20Farhan%20Hasin%20Saad-blue?style=flat-square)](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&hl=en) ## About Me
 
-- I have mostly done projects in: **Pytorch, Django, Python**
+I'm a Computer Vision Researcher with a Bachelor's degree in Computer Science and Engineering, specializing in Artificial Intelligence. My expertise lies in Python, with a strong focus on Computer Vision and Deep Learning. I'm passionate about leveraging technology to solve real-world problems and have a proven track record of publishing research in the fields of Dentistry and AI.
 
-- Here's my email **saadism.7@gmail.com**
+I'm known for my dedication, sincerity, and strong work ethic. I excel in time management and consistently meet deadlines. I'm also experienced in RLHF and SFT model fine-tuning for programming and conversational data.
 
-- 📄Here's my Resume Link: ([https://drive.google.com/file/d/1nKVjfp5l7MghIraEOoYA9zhuvXnt3Ahx/view?usp=sharing](https://drive.google.com/file/d/1iOhIYhflvk_9eO0QtBQBW5B5odTEJjEr/view?usp=sharing))
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saadism7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadism7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saadism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadism" height="30" width="40" /></a>
-<a href="https://fb.com/saadismm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saadismm" height="30" width="40" /></a>
-<a href="https://instagram.com/saadism_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saadism_" height="30" width="40" /></a>
-</p>
+## Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Programming Languages:** Python, Javascript, Java, COBOL
+- **Deep Learning:** PyTorch, Deep Learning, Computer Vision
+- **Web Development:** Django, Fullstack Web Development
+- **Research:** AI Training (RLHF, SFT)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadism777&show_icons=true&locale=en&layout=compact" alt="saadism777" /></p>
+
+## Top Projects
+
+- **Dental Loop Real-time Facial Landmark Tracking for Clinical Research (2023)**
+  - Tracks and detects facial landmark points, generating statistical and graphical outputs for analyzing facial abnormalities and dental issues.
+- **Visual Pollution Detection and Quantification Application (2022)**
+  - Uses YOLOv7 trained weights to detect and quantify visually polluted objects from vehicles.
+- **Endodontic Treatment Classification (2022)**
+  - Computer Vision model to detect root canal failures using X-rays.
+
+## Publications
+
+- **Facial and mandibular landmark tracking with habitual head posture estimation using linear and fiducial markers**
+  - The Institution of Engineering and Technology, Feb 2024
+- **Dental Loop FLT: Facial landmark tracking**
+  - SoftwareX [ScienceDirect], Sep 2023
+- **Experimental validation of computer-vision methods for the successful detection of endodontic treatment obturation and progression from noisy radiographs**
+  - Springer, Feb 2023
+- **Dental loop SnP: Speech and phonetic pattern recognition**
+  - SoftwareX [ScienceDirect], Dec 2023
+- **Clinical Annotation and Segmentation Tool (CAST) Implementation for Dental Diagnostics**
+  - Cureus, Nov 2023
+
+## Contact
+
+- **Email:** saadism.7@gmail.com
+- **Phone:** +880 1951860618
+- **Location:** Plot-27, Road-2, Block-Ka Senpara Porbota, Mirpur-10, Dhaka, Bangladesh
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saadism/) and check out my projects on [GitHub](https://github.com/saadism777).
